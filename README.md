@@ -1,5 +1,5 @@
 # spring-cloud-config-server
-This is Dyanamic Config Server Application that fetches property files from ConfigServerProp.
+This is Dynamic Config Server Application that fetches property files from ConfigServerProp.
 
 Right now there are 3 property files in ConfigServerProp
 you can make changes in any of them and committ that then test it locally by.
